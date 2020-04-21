@@ -5,7 +5,7 @@ A Ping CLI application for MacOS. The CLI app accepts a hostname or an IP addres
 Compile:
 
 ```bash
-sudo clang ping.cpp -o CompiledFileName
+sudo clang ping.cpp -o CompiledFileName.out
 ```
 Run:
 
